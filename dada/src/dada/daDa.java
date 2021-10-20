@@ -5,5 +5,6 @@ public class daDa {
 	int b=2;
 	int c=3;
 	int d=5;
+	int mladen =10;
 
 }
